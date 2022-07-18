@@ -1,1 +1,18 @@
-<p>employee-details works!</p>
+<h2>Employee Details</h2> 
+
+<hr/>
+<div *ngIf="employee">
+  <div>
+    <label><b>Employee Name: </b></label> {{employee.empName}}
+  </div>
+  <div>
+    <label><b>Employee Location: </b></label> {{employee.empLoc}}
+  </div>
+  <div>
+    <label><b>Salary: </b></label> {{employee.empSalary}}
+  </div>  
+</div>
+
+<br>
+<br>
+<button (click)="list()" class="btn btn-primary">Back to Employee List</button><br>
