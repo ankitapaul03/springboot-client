@@ -1,6 +1,6 @@
 # SpringbootClient
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6. This is basically an angular application able to perform basic CRUD operations. Backend is implemented using Spring REST API and created some rest api's along with the help of INSOMNIA tool for testing and Validating results of RESTful applications.
 
 ## Development server
 
