@@ -1,6 +1,6 @@
 # SpringbootClient
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6. This is basically an angular application able to perform basic CRUD operations. Backend is implemented using Spring REST API and created some rest api's along with the help of INSOMNIA tool for testing and Validating results of RESTful applications.
 
 ## Development server
 
@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Screenshots of the application :
+
+![image](https://user-images.githubusercontent.com/77354960/179603134-e928435f-47b2-48c2-9914-f7bfb1aaff44.png)
+![image](https://user-images.githubusercontent.com/77354960/179602556-0a64caac-fc66-41c8-9d9a-074132112cc9.png)
+![image](https://user-images.githubusercontent.com/77354960/179602656-90568443-d5a0-44b8-9862-dc162c297daf.png)
+![image](https://user-images.githubusercontent.com/77354960/179602724-81edee8d-89fa-47f7-a94b-18c1132520c5.png)
+
