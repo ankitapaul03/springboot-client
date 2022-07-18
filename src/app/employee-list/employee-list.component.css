@@ -1,0 +1,8 @@
+.panel-heading{
+    background-color: lightcoral;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}

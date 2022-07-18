@@ -1,0 +1,23 @@
+.h3,h3{
+    background-color:lightcoral;
+    width: max-content;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+button{
+    padding: 10px;
+    color: white;
+    background-color: rgb(69, 166, 69);
+    border: none;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

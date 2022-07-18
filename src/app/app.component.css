@@ -1,0 +1,12 @@
+.navbar{
+    background-color: lightseagreen;
+    font-size: 22px;
+
+}
+.nav-item{
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
+}
